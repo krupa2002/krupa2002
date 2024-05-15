@@ -7,8 +7,6 @@
 
 - [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%234B0082?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krupadharamshi/) Connect on Linkedin.
 
-- [![Connect on Kaggle](https://img.shields.io/badge/Connect%20on%20Kaggle-%234B0082?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/krupadharamshi/) Connect on Kaggle
-
 - [![Connect on Kaggle](https://img.shields.io/badge/Connect%20on%20Kaggle-%234B0082?style=flat&logo=kaggle&logoColor=orange)](https://www.kaggle.com/krupadharamshi/) Connect on Kaggle
 
 ---
