@@ -1,4 +1,4 @@
-# **Professional Contacts**🍇: 
+# **Professional Contacts**🔮: 
 ---
 
 - [![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%234B0082?style=flat&logo=github&logoColor=black)](https://github.com/krupa2002) Connect with me on GitHub.
@@ -11,6 +11,6 @@
 
 ---
  
-## Feel free to reach out for collaborations, discussions, or suggestions. Let's connect and explore opportunities together!🦅
+## Feel free to reach out for collaborations, discussions, or suggestions. Let's connect and explore opportunities together!🦄
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=krupa2002&color=4B0082)](https://github.com/krupa2002)
