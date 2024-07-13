@@ -9,6 +9,8 @@
 
 - [![Connect on Kaggle](https://img.shields.io/badge/Connect%20on%20Kaggle-%234B0082?style=flat&logo=kaggle&logoColor=orange)](https://www.kaggle.com/krupadharamshi/) Connect on Kaggle
 
+- [![Connect on LeetCode](https://img.shields.io/badge/Connect%20on%20LeetCode-%234B0082?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/krupa_20/) Follow my Leetcode.
+
 ---
  
 ## Feel free to reach out for collaborations, discussions, or suggestions. Let's connect and explore opportunities together!🦄
